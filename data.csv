@@ -1,1 +1,2 @@
-DPI,correo,contraseña,discapacidad,trabajo_deseado,cv
+DPI,correo,contraseña,nombre,apellido,Discapacidad auditiva,Discapacidad visual,Discapacidad intelectual,Discapacidad física,Discapacidad psíquica y orgánica,Trabajos
+123,@adroco,adroc,adroc,adroc,True,True,True,,,"nan, grabador de datos, operario de limpieza, telemarketing, recepcionista, jardinero, gestor de cobros, reponedor"

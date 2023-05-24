@@ -1,4 +1,6 @@
 from modules import *
 
+inicio_app()
         
-inicio_app()#inicia la aplicacion
+
+    
